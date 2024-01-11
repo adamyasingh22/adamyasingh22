@@ -6,13 +6,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashrastogi7)](https://github.com/anuraghazra/github-readme-stats) -->e some ideas to get you started:
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashrastogi7)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 🔭 Creating business showcases for small organizations
 - 🌱 Learning Web3
 - 👯 I want to collaborate on Hackathons, innovative projects, etc.
 - 💬 Ask me about Web Development, Frontend optimizations and Startups
-- 📫 How to reach me: ...
+- 📫 How to reach me: adamyasingh22@gmail.com
 -->
 # My Tech Stack
 
