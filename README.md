@@ -13,7 +13,7 @@
 - 👯 I want to collaborate on Hackathons, innovative projects, etc.
 - 💬 Ask me about Web Development, Frontend optimizations and Startups
 - 📫 How to reach me: adamyasingh22@gmail.com
--->
+
 # My Tech Stack
 
 **Programming Languages**
